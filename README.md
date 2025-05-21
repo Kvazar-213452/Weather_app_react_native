@@ -2,12 +2,10 @@
 
 Simple Weather Forecast
 
-## Run
+### Run
 ```
 npm i
 npm start
 ```
-  
-## img
 
-![Опис зображення](1.png)
+![img](1.png)
