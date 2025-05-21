@@ -1,13 +1,13 @@
-** React Native App — Weather Forecast
+# React Native App — Weather Forecast
 
 Simple Weather Forecast
 
-** Run
+## Run
 ```
 npm i
 npm start
 ```
   
-*** img
+## img
 
 ![Опис зображення](1.png)
